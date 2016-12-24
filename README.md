@@ -1,7 +1,7 @@
 # Awesome-Matrix-Calculator
-Calculator that perform matrix calculations on any NxN matrix<br/><br/>
+Calculator that perform matrix calculations on any NxN matrix<br/>
 
-Implemented Operations : <br/>
+**Implemented Operations :**<br/>
 - Addition
     - 2x2
     - 3x3
